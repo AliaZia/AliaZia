@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliaZia
-- 👀 I’m interested in programming
+- 👀 I’m Front End Web Developer
 - 🌱 I’m currently learning laravel
 - 📫 How to reach me ali.a.ziabakhsh1@gmail.com
 
