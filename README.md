@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliaZia
 - 👀 I’m Front End Web Developer
-- 🌱 I’m currently React native
+- 🌱 I’m currently Learning Unity & C#
 - 📫 How to reach me ali.a.ziabakhsh1@gmail.com
 
 <!---
