@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliaZia
-- 👀 I’m Front End Web Developer
+- 👀 I’m Web Developer
 - 🌱 I’m currently Learning Game Development
 - 📫 How to reach me ali.a.ziabakhsh1@gmail.com
 
