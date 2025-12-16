@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliaZia
-- 👀 I’m Web Developer
-- 🌱 I’m currently Learning Game Development
+- 🌐 I’m a Developer
+- 🌱 I’m currently Learning New Things
 - 📫 How to reach me ali.a.ziabakhsh1@gmail.com
 
 <!---
