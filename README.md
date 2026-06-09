@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AliaZia
 - 🌐 I’m a Developer
-- 🌱 I’m currently Learning New Things
-- 📫 How to reach me ali.a.ziabakhsh1@gmail.com
+- 🌱🆕 I’m Working on New Things
+- 📫 How to reach me
+- aazb.ir
 
 <!---
 AliaZia/AliaZia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
